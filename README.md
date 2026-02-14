@@ -60,7 +60,7 @@ SHAP enables:
 This visualization ranks features by overall importance and shows how each variable impacts the prediction across the dataset.
 
 <!-- FOTO 1: Global interpretability - SHAP summary plot -->
-![SHAP Summary Plot](path_to_image_1.png)
+![SHAP Summary Plot](Shap_summary_plot.png)
 
 The summary plot provides insight into:
 - Which financial variables are most influential
@@ -76,7 +76,7 @@ The summary plot provides insight into:
 To understand specific predictions, SHAP dependence plots were generated. These plots illustrate how a single feature affects the prediction while accounting for interactions with other variables.
 
 <!-- FOTO 2: Local interpretability - SHAP dependence plot -->
-![SHAP Dependence Plot](path_to_image_2.png)
+![SHAP Dependence Plot](dependence_plot.png)
 
 Local explanations allow us to:
 - Analyze the drivers behind a specific bank's predicted risk
@@ -117,5 +117,5 @@ Local explanations allow us to:
 
 ## Author
 
-Joaquín Matías Galarza San Miguel  
+Joaquín Matias Galarza San Miguel  
 Statistics Undergraduate | Data Science & Machine Learning Enthusiast
